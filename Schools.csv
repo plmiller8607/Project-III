@@ -1,0 +1,576 @@
+﻿District_ID,School_ID,School_Name
+4153,4711,St Johns High School
+4153,89607,St. Johns Learning Center
+4154,4717,Window Rock High School
+4155,4721,Round Valley High School
+4155,92686,Round Valley AOI
+4156,4724,Valley High School
+4157,4728,Ganado High School
+4158,4737,Chinle High School
+4158,1001800,Hozho Online Academy
+4159,4741,Red Mesa High School
+4168,4751,Tombstone High School
+4169,4754,Bisbee High School
+4169,1000301,Copper Credits
+4170,4757,Willcox High School
+4171,4759,Bowie High School
+4172,4760,San Simon School
+4173,4762,St David High School
+4174,4773,Douglas High School
+4174,1001916,DUSD Online Academy
+4175,4783,Buena High School
+4175,1001827,SVUSD AOI
+4190,4800,Valley Union High School
+4191,4801,Center for Academic Success #1 - Sierra Vista 9-12
+4191,4802,Center for Academic Success #2 - Douglas 9-12
+4192,4803,Summit High School
+4192,4819,Flagstaff High School
+4192,4820,Coconino High School
+4192,230656,Northern Arizona Distance Learning
+4193,4823,Williams High School
+4194,4825,Grand Canyon High School
+4195,4828,Fredonia High School
+4196,4832,Page High School
+4196,92913,Manson Mesa High School
+4196,1001183,Sage & Sand Academy
+4197,4838,Tuba City High School
+4197,78916,Nizhoni Accelerated Academy
+4202,4842,Flagstaff Arts And Leadership Academy
+4204,4845,Northland Preparatory Academy
+4208,4855,Globe High School
+4208,1001828,Tiger Knowledge Online (TKO)
+4209,4860,Payson High School
+4210,4863,San Carlos High School
+4210,89776,San Carlos Alternative High School
+4211,4869,Miami Junior Senior High School
+4212,4873,Hayden High School
+4213,4875,Young High School
+4216,4878,Liberty High School
+4217,4879,Dan Hinton Accommodation School
+4218,4884,Safford High School
+4218,4885,Mt Graham High School
+4218,216045,Henry Dunkerson Pathways Academy
+4219,4889,Thatcher High School
+4219,1001768,Eagle Online Academy
+4220,4891,Pima High School
+4220,92296,Gila Valley Learning Center
+4221,4893,Fort Thomas High School
+4221,90064,Mt. Turnbull Academy
+4228,4903,Duncan High School
+4230,4906,Morenci High School
+4231,4908,Blue Elementary School
+4234,969999,Hope College and Career Readiness Academy
+4235,4980,Mesa High School
+4235,4981,Westwood High School
+4235,4982,Mountain View High School
+4235,4983,Dobson High School
+4235,4984,Red Mountain High School
+4235,78917,Skyline High School
+4235,78930,Mesa Distance Learning Program
+4235,78932,East Valley Academy
+4236,4987,Wickenburg High School
+4236,91264,Wickenburg Virtual Academy
+4237,5013,Peoria High School
+4237,5014,Cactus High School
+4237,5015,Ironwood High School
+4237,5016,Centennial High School
+4237,5017,Sunrise Mountain High School
+4237,6231,Peoria Flex Academy
+4237,81207,Peoria eCampus
+4237,85835,Raymond S. Kellis
+4237,87520,Liberty High School
+4238,5019,Gila Bend High School
+4239,5039,Gilbert High School
+4239,5040,Highland High School
+4239,6007,Mesquite High School
+4239,79823,Desert Ridge High
+4239,89606,Gilbert Classical Academy 7-12
+4239,90124,Campo Verde High School
+4239,91209,GPS Global Academy
+4240,5066,Arcadia High School
+4240,5067,Coronado High School
+4240,5068,Saguaro High School
+4240,5069,Chaparral High School
+4240,5070,Desert Mountain High School
+4240,91286,Scottsdale Online Learning
+4241,5071,Roadrunner School
+4241,5105,Paradise Valley High School
+4241,5106,Horizon High School
+4241,5107,North Canyon High School
+4241,5108,Shadow Mountain High School
+4241,79268,Pinnacle High School
+4241,90782,pvONLINE
+4241,92611,Sweetwater Community School
+4242,5127,Chandler High School
+4242,6015,Hamilton High School
+4242,79633,Basha High School
+4242,89591,Arizona College Prep High School
+4242,89613,Perry High School
+4242,91282,Chandler Online Academy
+4242,92892,Dr. Camille Casteel High School
+4243,5133,Dysart High School
+4243,81113,Willow Canyon High School
+4243,88417,Valley Vista High School
+4243,90134,Shadow Ridge High School
+4243,90875,Dysart iSchool
+4244,5137,Cactus Shadows High School
+4244,1001171,Cave Creek Academy of Excellence
+4245,5141,Queen Creek High School
+4245,92628,Queen Creek Virtual Academy
+4245,1000117,Eastmark High School
+4246,5161,Deer Valley High School
+4246,5162,Barry Goldwater High School
+4246,5163,Mountain Ridge High School
+4246,79414,"Aspire, Deer Valley's Online Academy"
+4246,80317,Sandra Day O'Connor High School
+4246,85850,Boulder Creek High School
+4247,5167,Fountain Hills High School
+4247,90932,Fountain Hills Virtual Academy
+4248,79374,Higley High School
+4248,89581,Williams Field High School
+4248,1001176,Higley Virtual Academy
+4252,1000059,Nadaburg Online Virtual Academy
+4254,85819,Tonopah Valley High School
+4284,5424,Buckeye Union High School
+4284,79376,Estrella Foothills High School
+4284,89573,Youngker High School
+4284,91826,BUHSD Institute of Online Learning
+4285,5426,Glendale High School
+4285,5427,Sunnyslope High School
+4285,5428,Washington High School
+4285,5429,Cortez High School
+4285,5430,Moon Valley High School
+4285,5431,Apollo High School
+4285,5432,Thunderbird High School
+4285,5433,Greenway High School
+4285,5434,Independence High School
+4285,5435,Glendale Union High School District Online Learning Academy
+4285,794564,Glendale Union Online
+4286,5436,Alhambra High School
+4286,5437,Trevor Browne High School
+4286,5438,Camelback High School
+4286,5439,Central High School
+4286,5440,Carl Hayden High School
+4286,5441,Maryvale High School
+4286,5442,North High School
+4286,5443,South Mountain High School
+4286,6248,Metro Tech High School
+4286,6249,Bostrom Alternative Center
+4286,78847,Cesar Chavez High School
+4286,79617,Linda Abril Educational Academy
+4286,88407,Phoenix Union Bioscience High School
+4286,89571,Betty Fairfax High School
+4286,89778,Franklin Police and Fire High School
+4286,128903,Phoenix Union-Wilson College Preparatory
+4286,221992,Phoenix Coding Academy
+4286,875776,Phoenix Digital Academy
+4286,1001158,PXU City
+4287,5444,Tempe High School
+4287,5445,Mcclintock High School
+4287,5446,Marcos De Niza High School
+4287,5447,Corona Del Sol High School
+4287,5448,Mountain Pointe High School
+4287,5449,Desert Vista High School
+4287,87990,TAPBI
+4288,5452,Tolleson Union High School
+4288,5453,Westview High School
+4288,80051,La Joya Community High School
+4288,85810,Copper Canyon High School
+4288,89908,Sierra Linda High School
+4288,90085,West Point High School
+4288,90551,University High School
+4289,5454,Agua Fria High School
+4289,78926,Millennium High School
+4289,79799,Desert Edge High School
+4289,87903,Verrado High School
+4289,932049,Canyon View High School
+4297,5462,Accelerated Learning Center
+4300,5466,Girls Leadership Academy of Arizona
+4301,5467,"Ridgeline Academy, Inc."
+4314,5480,Gateway Early College High School
+4316,5482,New School for the Arts
+4320,90159,Salt River Accelerated Learning Academy
+4323,5493,Ombudsman - Charter East
+4323,10737,Ombudsman - Charter West
+4323,78814,Ombudsman - Charter Metro
+4323,79174,Ombudsman - Charter Northeast
+4323,80026,Ombudsman - Charter Northwest
+4323,89440,Ombudsman - Charter East II
+4323,89827,Ombudsman - Charter Valencia
+4323,1001731,Ombudsman Online Academy
+4329,5500,Sequoia Choice School Arizona Distance Learning School
+4329,90322,Sequoia Pathfinder Academy at Verrado Way and I-10
+4331,6344,AAEC - Paradise Valley
+4332,5504,Genesis Academy
+4334,88232,International Commerce High School - Phoenix
+4335,5507,NFL YET College Prep Academy
+4336,5509,Heritage Academy
+4336,1000169,Heritage Academy Maricopa
+4337,79042,International Commerce High School - Tempe
+4337,81181,Humanities and Sciences Academy Arizona
+4337,1001879,International Commerce High School MCG
+4342,78899,Kaizen Education Foundation dba El Dorado High School
+4342,92246,Glenview College Preparatory High School
+4345,5519,Arizona School For The Arts
+4346,5520,City View High School 
+4348,90769,"American Leadership Academy, Queen Creek K-12"
+4348,92348,"American Leadership Academy, Anthem K-6"
+4348,92885,"American Leadership Academy, Ironwood K12"
+4348,509281,"American Leadership Academy, Gilbert North K-12"
+4348,1001506,AMERICAN LEADERSHIP ACADEMY VIRTUAL 
+4348,1001509,"American Leadership Academy, West Foothills K-12"
+4348,1001761,American Leadership Academy of Applied Technologies
+4352,10746,Intelli-School - Paradise Valley
+4352,1001763,IntelliSchool Online
+4355,92270,Benjamin Franklin High School
+4361,5549,Tempe Preparatory Academy
+4368,5565,Lake Havasu High School
+4368,85839,Havasuonline
+4369,1001855,Music Mountain Academy
+4370,5567,El Capitan Public School
+4374,85821,Beaver Dam High School
+4381,5592,Mohave High School
+4381,5593,River Valley High School
+4381,90858,CRUHSD Academy
+4383,79373,Kingman Academy of Learning - High School
+4386,7654,Navajo County Instruction for Success (NCIS)
+4387,5604,Winslow High School
+4388,5606,Joseph City High School
+4389,5610,Holbrook High School
+4390,5613,Pinon High School
+4391,5618,Snowflake High School
+4392,5625,Mogollon High School
+4393,5632,Show Low High School
+4393,79646,White Mountain Institute
+4393,91203,WMI ON LINE
+4394,5637,Alchesay High School
+4396,5644,Monument Valley High School
+4397,5648,Blue Ridge High School
+4400,5652,Northern AZ Academy for Career Dev. - Taylor
+4401,1001696,Pima County Schools Superintendent's Diploma Program
+4403,5756,Catalina High School
+4403,5757,Cholla High School
+4403,5758,Palo Verde High Magnet School
+4403,5759,Pueblo High School
+4403,5760,Rincon High School
+4403,5761,Sabino High School
+4403,5762,Sahuaro High School
+4403,5763,Santa Rita High School
+4403,5764,Tucson Magnet High School
+4403,5766,University High School
+4403,6264,Project More High School
+4403,6269,Mary Meredith K-12 School
+4403,6272,Teenage Parent Program - TAPP
+4403,85924,Catalina Online Learning Experience
+4403,1001156,Innovation Tech High School
+4404,5781,Marana High School
+4404,5782,Mountain View High School
+4404,6279,MCAT High School
+4404,87083,Marana Distance Learning
+4405,5791,Flowing Wells High School
+4405,6054,Sentinel Peak High School
+4405,91832,Flowing Wells Digital Campus
+4406,5803,Rillito Center
+4406,5808,Canyon Del Oro High School
+4406,6055,Amphitheater High School
+4406,79378,Ironwood Ridge High School
+4406,91755,Amphi Academy Online
+4407,5826,Desert View High School
+4407,5827,Sunnyside High School
+4407,6288,STAR Academic High School
+4407,91829,Sunnyside Online Success Academy
+4408,87466,Tanque Verde High School
+4409,6292,Ajo High School
+4410,5839,Catalina Foothills High School
+4411,5843,Sahuarita High School
+4411,90824,Walden Grove High School
+4411,1001695,Sahuarita Digital Pathways Academy
+4412,5847,Baboquivari High School
+4412,90822,Alternative High School (Indian Oasis High School)
+4413,10855,Vail Academy & High School
+4413,79721,Cienega High School
+4413,84665,Pantano High School
+4413,87875,Empire High School
+4413,90845,Vail Innovation Center
+4413,91292,Andrada Polytechnic High School
+4413,1000597,Mica Mountain High
+4420,6057,Pima Vocational High School
+4421,5860,Edge High School - Himmel Park
+4421,80928,EDGE High School - Northwest
+4422,5861,Alternative Computerized Education (ACE) Charter High School
+4422,90286,Youth Works Charter High School
+4425,5865,Presidio School
+4431,5873,PPEP TEC - Celestino Fernandez Learning Center
+4431,5876,PPEP TEC - Alice S. Paul Learning Center
+4431,5877,PPEP TEC - Raul H. Castro Learning Center
+4431,5878,PPEP TEC - Cesar Chavez Learning Center
+4431,5879,PPEP TEC - Jose Yepez Learning Center
+4431,5880,PPEP TEC - Colin L. Powell Learning Center
+4435,6067,Villa Oasis Interscholastic Center For Education (voice)
+4437,5897,Florence High School
+4437,89907,San Tan Foothills High School
+4437,90309,Poston Butte High School
+4437,90781,Florence Virtual Academy
+4437,92280,Mountain Vista Academy
+4438,5900,Ray JR/SR High School
+4439,5904,San Manuel High School
+4440,5907,Superior Junior/Senior High School
+4441,5910,Maricopa High School
+4441,1001089,Maricopa Virtual Academy
+4442,5916,Coolidge High School
+4442,92608,Coolidge Alternative Program
+4442,1001734,Coolidge Virtual Academy
+4443,5925,Apache Junction High School
+4445,89859,Combs High School
+4445,1001141,Combs Online School for Success
+4445,1001830,Combs Center for Success High School
+4453,5948,Casa Grande Union High School
+4453,90084,Vista Grande High School
+4453,1001708,INOVA
+4454,5951,Santa Cruz Valley Union High School
+4454,90415,Santa Cruz Center for Success
+4457,5961,Pierson High School
+4457,5962,Nogales High School
+4457,91269,NUSD Online
+4458,5966,Rio Rico High School
+4462,5971,Patagonia Union High School
+4466,8135,Prescott High School
+4466,1001973,Genesis Academy
+4467,6085,Sedona Red Rock Junior/Senior High School
+4467,90826,Red Rock Academy
+4468,6089,Bagdad Middle / Senior High School
+4468,1001181,Sultan Virtual Academy
+4469,6097,Bradshaw Mountain High School
+4469,87536,Bradshaw Mountain Online Academy
+4470,6100,Camp Verde High School
+4470,84659,Camp Verde Accommodation School
+4470,1000257,Camp Verde Online
+4471,6103,Ash Fork High School
+4472,6105,Seligman High School
+4473,6106,Mayer High School
+4474,6110,Chino Valley High School
+4487,6123,Cottonwood Education Services
+4488,6127,Mingus Union High School
+4488,91320,Mingus Online Academy
+4506,6188,Antelope Union High School
+4506,92739,AUHS Online Acadamy
+4507,6189,Yuma High School
+4507,6190,Kofa High School
+4507,6191,Cibola High School
+4507,6302,Vista High School
+4507,80409,San Luis High School
+4507,89576,Gila Ridge High School
+4507,91316,Yuma Online Distance Academy
+4509,6193,Educational Opportunity Center
+4510,6197,Parker High School
+4510,80408,Parker Alternative School
+4515,6203,Salome High School
+5180,89828,Paradise Honors High School
+5181,10847,Metropolitan Arts Institute
+5186,10801,Westland School
+5186,92637,Westland School Brighton Campus
+6353,5653,Shonto Preparatory Technology High School
+6365,6366,American Heritage Academy - Cottonwood
+6369,5872,Ha:san Preparatory & Leadership School
+6374,5892,Tucson Preparatory School
+6379,10814,"Learning Institute, The"
+6393,6395,ASDB - Phoenix Day School for the Deaf
+6393,78941,ASDB - Tucson Campus
+6446,10849,Sequoia Secondary School
+8304,8305,Utah
+10386,81127,Tse'yaato' High School
+10386,85842,Ponderosa High School
+10386,1001242,CCASD Online Instruction
+10879,10885,Mountain Rose Academy
+10965,78821,Tri-City College Prep
+78833,78836,Eastpointe High School
+78897,78898,Academy of Tucson High School
+78997,79022,Student Choice High School
+78997,90737,Student Choice High School
+79000,79028,Southern Arizona Community Academy
+79000,92518,SACA Online
+79047,79129,Tech Campus
+79047,80025,Career Success Schools - STEM Academy 7-12
+79047,80430,Robert L. Duffy High School
+79049,79127,Sonoran Science Academy - Tucson
+79049,1001746,Sonoran Virtual Academy
+79053,79123,Career and College Prep
+79059,79117,Thrivepoint High School at Union Hills
+79059,81143,ThrivePoint High School at Surprise
+79059,90075,ThrivePoint High School at Metro
+79059,90389,ThrivePoint High School at Grovers
+79059,90768,ThrivePoint High School at Buckeye
+79059,90815,ThrivePoint Online High School
+79059,91199,ThrivePoint High School at Avondale
+79063,79113,James Madison Preparatory School
+79065,79111,Valley Preparatory Academy
+79068,79108,PACE Preparatory Academy
+79074,79102,Country Gardens Charter School
+79077,79099,Cornerstone Charter School
+79084,79092,Skyline Prep High School
+79085,79091,Southgate Academy
+79211,10848,Sequoia Village School
+79211,90324,Sequoia Village High School
+79213,10795,Academy with Community Partners
+79218,78857,Telesis Preparatory Academy
+79226,4799,Benson High School
+79226,85879,Benson Digital Learning Center
+79226,90775,Benson Digital Learning Center Online
+79264,78809,Horizon Honors Secondary School
+79379,79380,Yavapai County High School
+79379,91815,Aspire  High School
+79439,79619,Pinnacle Charter High School-Tempe East
+79439,289884,Pinnacle Online - WMCB
+79441,79442,Desert Rose Academy Charter School
+79455,79456,North Pointe Preparatory
+79461,81178,Primavera - Online
+79467,79468,Compass High School
+79475,79476,Crown Point High School
+79496,79506,Deer Valley Academy
+79498,79510,Mohave Accelerated Learning Center
+79499,79511,Masada Charter School
+79501,79513,Harvest Preparatory Academy
+79503,79505,Omega Alpha Academy School
+79569,79570,Premier Charter High School
+79578,79579,Pan-American Charter School
+79598,5595,Kingman High School
+79598,91772,Lee Williams High School
+79598,1001750,Kingman Online Learning Academy (KOLA) High School
+79701,79702,Arizona Preparatory Academy
+79872,78901,Desert Hills High School
+79873,78900,Estrella High School
+79874,78813,Crestview College Preparatory High School
+79875,78817,Peoria Accelerated High School
+79876,10749,Kaizen Education Foundation dba Summit High School
+79877,6347,Sun Valley High School
+79878,6349,Kaizen Education Foundation dba Quest High School
+79879,6348,West Phoenix High School
+79880,6350,Skyview High School
+79881,79899,Nosotros Academy
+79882,10748,Kaizen Education Foundation dba Maya High School
+79883,6346,Apache Trail High School
+79907,80385,Midtown High School
+79929,80006,Precision Academy
+79951,79952,Intelli-School
+79951,1001760,SC Jensen Online
+79953,5530,Intelli-School - Metro Center
+79953,90208,Intelli-School Glendale
+79953,1001762,PAS Charter Online
+79957,79958,Desert Marigold School
+79959,79960,"Pima Partnership School, The"
+79967,87416,Leading Edge Academy Gilbert Early College
+79967,91597,Leading Edge Academy Online
+79979,79980,Tucson International Academy
+79979,84297,Tucson International Academy Midvale
+79979,90044,TIA East
+79979,90045,TIA West
+79981,79982,Arizona Conservatory for Arts and Academics
+79981,90349,Arizona Conservatory for Arts and Academics Middle School
+80001,89656,Desert View Online School
+80032,80033,Toltecali High School
+80989,80990,South Pointe High School
+80992,80994,Great Hearts Academies - Veritas Prep
+80995,80996,Alta Vista High School
+81001,5463,Pinnacle High School - Tempe
+81001,81180,Pinnacle Online High School
+81009,79621,Pinnacle Charter High School
+81011,10750,Pinnacle High School - Casa Grande
+81027,81028,Berean Academy
+81029,81030,Canyon Rose Academy
+81029,605648,Canyon Rose Academy-East
+81041,81042,Hope High School
+81041,81182,Hope High School Online
+81050,79219,"Edkey, Inc. - Sequoia Deaf School"
+81050,920316,KELLY
+81078,81079,BASIS Scottsdale
+81099,78950,Desert Heights Charter School
+81174,81175,Phoenix College Preparatory Academy
+85448,85451,City High School
+85540,85541,Academy of Building Industries
+85749,85750,AMCS at Anthem dba Caurus Academy
+85816,5503,AAEC - SMCC Campus
+87334,87335,Pillar Academy of Business & Finance
+87334,91213,Pillar Academy Online
+87349,87350,East Valley High School
+87405,79705,Arizona Virtual Academy
+87405,91830,Arizona Insight Academy
+87407,81179,Arizona Connections Academy
+87600,90038,Biyaagozhoo Center
+88299,88300,Great Hearts Academies - Chandler Prep
+88334,88335,South Ridge High School
+89412,5479,EDUPRIZE SCHOOL Gilbert
+89412,1001718,EDUPRIZE ONLINE INSTRUCTION
+89486,89487,Great Hearts Academies - Arete Prep
+89756,89757,Great Hearts Academies - Scottsdale Prep
+89788,89789,Imagine Prep Superstition
+89790,89791,Imagine Prep Surprise
+89798,89799,San Tan Charter School
+89829,89830,Great Hearts Academies - Glendale Prep
+89869,89870,AZ Compass Prep School
+89871,89872,Sky Islands
+89914,80974,Sonoran Science Academy - Phoenix
+89917,89918,Paragon Science Academy
+90034,90035,Imagine Prep Coolidge
+90138,92636,Jefferson Preparatory High School
+90201,90202,EdOptions Preparatory Academy
+90201,90844,EdOptions HS Learning Center
+90284,90285,Sonoran Science Academy - Davis Monthan
+90287,91825,Odyssey Institute for Advanced and International Studies
+90327,88289,Learning Foundation and Performing Arts Gilbert
+90329,89941,Skyline D5
+90331,87412,Envision High School
+90508,90509,BASIS Oro Valley
+90532,90635,Great Hearts Academies - Anthem Prep
+90533,88388,Northpoint Expeditionary Learning Academy
+90536,90907,Arizona Collegiate High School
+90548,91158,Mission Heights Preparatory High School
+90548,1001670,Leona Connected High School
+90758,91184,Astravo Online Academy 
+90758,91246,Astravo Online Academy
+90779,90780,Arizona Agribusiness & Equine Center - Estrella
+90841,91055,BASIS Peoria
+90842,91056,BASIS Chandler
+90859,91156,Great Hearts Academies - Trivium Prep
+90861,91781,Great Hearts Academies - Maryvale Prep
+90862,90863,BASIS Flagstaff
+90876,91782,Changemaker High School
+90879,91422,Great Hearts Academies - North Phoenix Prep
+90997,90998,Pima Rose Academy
+91131,91132,"Arizona Agribusiness & Equine Center, Inc. - Prescott Valley"
+91277,92975,Empower College Prep High School
+91280,91343,BASIS Phoenix
+91303,91304,ASU Preparatory Academy- Phoenix High School
+91305,91306,ASU Preparatory Academy-Polytechnic High School
+91309,91766,BASIS Tucson North
+91339,92030,BASIS Ahwatukee
+91935,92605,Madison Highland Prep
+91937,92619,Western School of Science and Technology
+91949,91997,BASIS Mesa
+91958,92984,"Arizona Autism Charter School, Upper School Campus"
+91958,1001693,Arizona Autism Charter - Online High School
+91992,92497,Las Puertas Community School
+92043,92044,Southwest Leadership Academy
+92226,90377,Sequoia Pathway Academy
+92316,92317,Great Hearts Academies - Cicero Prep
+92320,92321,BASIS Prescott
+92519,92522,Heritage Academy Gateway
+92520,92521,Heritage Academy Laveen
+92657,92732,Great Hearts Academies - Lincoln Prep
+92734,92735,BASIS Goodyear
+92976,1000047,Think Through Academy
+92982,703390,Highland Prep
+92983,850102,Pathways in Education
+92987,635758,ASU Preparatory Academy - Casa Grande HS
+92988,181823,Maricopa Institute of Technology
+134379,156568,"Arizona Agribusiness & Equine Center, Inc. - Mesa"
+134379,1001738,AAEC Online
+346763,92248,ASU Preparatory Academy - South Phoenix High School
+449790,742847,RCB College Preparatory Academy
+522074,860177,ASU Preparatory Academy Digital
+1000166,1000972,A+ Charter Schools
+1000291,1000304,Valor Preparatory Academy
+1000979,1000980,Freedom Prep Academy - Mesa
+1001346,1001427,Ridgeview College Preparatory High School
+1001687,1001688,New Crossroads Academy
+1001719,1001732,Online School of Arizona
+1001949,1001974,The Excel Center - Encanto

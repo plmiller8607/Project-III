@@ -1,0 +1,32 @@
+create table Districts(
+	district_ID int,
+	district_Name varchar not null, 
+	primary key (district_ID)
+);
+
+create table Subgroups(
+	Subgroup_No int,
+	Subgroup_Name varchar not null,
+	primary key (Subgroup_No)
+);
+
+create table Schools(
+	District_ID int,
+	School_ID int,
+	School_Name varchar not null,
+	primary key (School_ID, School_Name),
+    foreign key (District_ID) references Districts(District_ID)
+);
+
+
+create table Yr2023_Grad_Data(
+	School_ID int,
+    School_Name varchar not null,
+	Subgroup_Name varchar not null,
+	No_in_Class int, 
+	No_Graduated int,
+	Percent_Graduated float
+	);
+
+DELETE FROM Yr2023_Grad_Data
+WHERE 0 IN (No_in_Class, No_Graduated, Percent_Graduated);

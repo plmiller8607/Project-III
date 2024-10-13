@@ -1,0 +1,23 @@
+Districts
+-
+district_ID int PK
+district_Name varchar
+
+Schools
+-
+District_ID int PK FK - Districts.District_ID
+School_ID int PK
+School_Name varchar PK
+
+Subgroups
+-
+Subgroup_No int 
+Subgroup_Name varchar PK
+
+Yr2023_Grad_Data
+-
+School_Name varchar PK - Schools.School_Name
+Subgroup_Name varchar PK - Subgroups.Subgroup_Name
+No_in_Class int
+No_Graduated int
+Percent_Graduated float
